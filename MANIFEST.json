@@ -393,8 +393,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "ac128cbabd54c91a684be8d3e8873a2008bbee38e55792ffe964fcecab9d45ac",
-      "bytes": 2981
+      "sha256": "3d133fc1056bad89b783295e7762bfe9588ee9c75903e2c5eb9e374ebfec4b4a",
+      "bytes": 3174
+    },
+    {
+      "path": "prompts/codex-backup-handoff.md",
+      "sha256": "8baaa2345675c2ace915ef94be93592765f91fe8439aef1c6851dcc42f2d593e",
+      "bytes": 4361
     },
     {
       "path": ".gitignore",

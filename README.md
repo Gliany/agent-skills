@@ -3,6 +3,8 @@ A curated collection of custom AI agent skills and scripts, with reusable workfl
 
 A curated collection of 20 custom skills and local adaptations, with required references and four helper script files. Browse [the catalog](CATALOG.md) and [provenance and licensing](PROVENANCE.md).
 
+Use the [Codex backup handoff prompt](prompts/codex-backup-handoff.md) to preserve a chat and its project code in a private backup and add authorized reusable files to this public collection.
+
 ## Install and use
 
 Copy an individual `skills/<name>` folder into your agent's supported skill directory. For a Codex installation that uses `%USERPROFILE%\.codex\skills`, a new skill can be copied as follows. Resolve any existing installation before copying; do not overwrite it silently.
