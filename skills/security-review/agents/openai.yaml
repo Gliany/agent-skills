@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Review"
+  short_description: "Trace exploitable security issues in code changes"
+  default_prompt: "Use $security-review to assess security risks in my pending changes."

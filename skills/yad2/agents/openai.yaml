@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yad2"
+  short_description: "Search and manage Yad2 property, cars and goods"
+  default_prompt: "Use $yad2 to search, compare or manage Yad2 listings."

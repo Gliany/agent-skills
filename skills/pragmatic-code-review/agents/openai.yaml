@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pragmatic Code Review"
+  short_description: "Review code changes for actionable regressions"
+  default_prompt: "Use $pragmatic-code-review to review my pending code changes."

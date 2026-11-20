@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outlook Mail & Calendar Specialist"
+  short_description: "Manage Outlook mail, calendar, and follow-ups safely"
+  default_prompt: "Use $outlook-mail-calendar to review my inbox and calendar and summarize what needs attention."

@@ -1,0 +1,6 @@
+interface:
+  display_name: "WhatsApp Business"
+  short_description: "Manage business chats, files and approved workflows"
+  default_prompt: "Use $whatsapp-business to review my WhatsApp Business inbox, summarize what needs attention, and draft replies for review."
+policy:
+  allow_implicit_invocation: true

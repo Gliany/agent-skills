@@ -1,0 +1,5 @@
+interface:
+  display_name: "Financial Analysis"
+  short_description: "ניתוח פיננסי למשק בית בישראל"
+  default_prompt: "Use $financial-analysis to analyze my Israeli household income, expenses, cash-flow gaps, savings, debts, and financial goals."
+  brand_color: "#17365D"

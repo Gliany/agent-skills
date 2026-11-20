@@ -1,0 +1,5 @@
+interface:
+  display_name: "Codex Thread Reader"
+  short_description: "Read relevant context from another Codex chat"
+policy:
+  allow_implicit_invocation: true

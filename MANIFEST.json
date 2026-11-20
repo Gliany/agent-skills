@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-20",
+  "files": [
+    {
+      "path": "skills/context-optimization/references/recovery.md",
+      "sha256": "5f345d7bcb56c847e29599f93774240c486c6c5917857df51108414eb1e299f5",
+      "bytes": 3730
+    },
+    {
+      "path": "skills/context-optimization/SKILL.md",
+      "sha256": "87bfc897126bf8321a939148cd47f4ed3bddd9e5b748d020d079d89e2d07a5f3",
+      "bytes": 6275
+    },
+    {
+      "path": "skills/deep-research/references/evidence-and-reporting.md",
+      "sha256": "a98ae6ac243d32634cd6ab99fb4850b213f7ac5fff5e3f3c1d7ea3b29a760cfb",
+      "bytes": 4715
+    },
+    {
+      "path": "skills/deep-research/SKILL.md",
+      "sha256": "7df944c4e91f4cfb83df252a7e1fbb321a16154a075d2972a508f64915f969e7",
+      "bytes": 6984
+    },
+    {
+      "path": "skills/prompt-review/references/validation.md",
+      "sha256": "6e9dc258eb277a0d93b7edff0fab0ed0ffe3814de7b6180bd3b476e9d096c640",
+      "bytes": 2471
+    },
+    {
+      "path": "skills/prompt-review/SKILL.md",
+      "sha256": "3f09957d9eb43af25ea3b14e77c614a0fff2d665f25b3ce158c57ee12cfb269b",
+      "bytes": 6297
+    },
+    {
+      "path": "skills/skill-discovery/references/security-review.md",
+      "sha256": "20ca12c7b6277c5265630b75f70c452a0dbe98f3fd37f2774474313825cd7253",
+      "bytes": 2093
+    },
+    {
+      "path": "skills/skill-discovery/SKILL.md",
+      "sha256": "78835a68560335daf2df88bfde5666ed40dddd6bd51b4a160131c22184f20bc2",
+      "bytes": 7693
+    },
+    {
+      "path": "skills/token-optimization/references/accounting.md",
+      "sha256": "6820c21cdb06d2c58e6779128491fcbae2ceaddf665f3bc7873689f79e84236d",
+      "bytes": 5774
+    },
+    {
+      "path": "skills/token-optimization/scripts/measure.mjs",
+      "sha256": "5b4b12b49cf25a419a10b51147741c8f2838a0fcae5cc1428ea9738e6c66060a",
+      "bytes": 7297
+    },
+    {
+      "path": "skills/token-optimization/SKILL.md",
+      "sha256": "bdb1bf18330bb3251030e890f29cb829308fb326db3e075176752138c3e096cc",
+      "bytes": 5562
+    },
+    {
+      "path": "skills/codex-thread-reader/agents/openai.yaml",
+      "sha256": "c8fd6dda2fe81f02f565588a7da67b5a12108c234fcb08de18edb66a117acb7d",
+      "bytes": 160
+    },
+    {
+      "path": "skills/codex-thread-reader/scripts/read-thread.mjs",
+      "sha256": "bdd7b8f81baf1574773250bee52ee25b1fe3d87cbe9be858e993e987a50fdb4f",
+      "bytes": 9056
+    },
+    {
+      "path": "skills/codex-thread-reader/scripts/read-thread.ps1",
+      "sha256": "16fd355766a9274b8bd4e37c9fd4c5aeec10fa9f3e3c7bff09e146b66e9bbd07",
+      "bytes": 2307
+    },
+    {
+      "path": "skills/codex-thread-reader/SKILL.md",
+      "sha256": "d3c013ceb042fe54cb3c16ed7ceb19a989e5838be0c1b7631e30e790ac1e1d5f",
+      "bytes": 3529
+    },
+    {
+      "path": "skills/design-review/agents/openai.yaml",
+      "sha256": "ab9adca52a40fe9411ff36d606c32a8ca03bdd7fc164aebcd023153dbd316efb",
+      "bytes": 207
+    },
+    {
+      "path": "skills/design-review/LICENSE",
+      "sha256": "c282276aea1d12b8b5262e9651a05471d14752b2d25495f2a3d8933c86d1d8a5",
+      "bytes": 1070
+    },
+    {
+      "path": "skills/design-review/references/source.md",
+      "sha256": "d94a32d2622210901667814445e869c22a4749d754f9cf6de0a771c775fce68a",
+      "bytes": 1518
+    },
+    {
+      "path": "skills/design-review/SKILL.md",
+      "sha256": "0a2bb4a86995555cf5805abc9b1c101aec753a52ce637be3b252575596d47cfc",
+      "bytes": 5501
+    },
+    {
+      "path": "skills/financial-analysis/agents/openai.yaml",
+      "sha256": "589c2657d16a127fba21ab89b3df9f1d2537c424dfd088d209f9b5e2c15769af",
+      "bytes": 300
+    },
+    {
+      "path": "skills/financial-analysis/references/israeli-household-model.md",
+      "sha256": "584eff08c70b2e92c97ffbb7ce17618b36d837eedaf473a3eefc148963d727f3",
+      "bytes": 5932
+    },
+    {
+      "path": "skills/financial-analysis/SKILL.md",
+      "sha256": "8a9d33e0f34e8ec091a6e00987168ba41cf1c702516cbfa5c9d1da06cacd59f5",
+      "bytes": 3836
+    },
+    {
+      "path": "skills/hebrew-content-writer/agents/openai.yaml",
+      "sha256": "9d37f1aeee07d66e65ff29ac0e833aa8c1d871f8f6b3e726858452a1c11fad58",
+      "bytes": 146
+    },
+    {
+      "path": "skills/hebrew-content-writer/references/hebrew-grammar-quick-ref.md",
+      "sha256": "d3ca10f9009a4763a9a621b742bf46db0dec0b4638a620f35b6afd7d13769ffb",
+      "bytes": 2773
+    },
+    {
+      "path": "skills/hebrew-content-writer/references/hebrew-seo.md",
+      "sha256": "a92d4ee33f303f945b9fa54f9a7773092f72c7064b30a44f5c46029e67504803",
+      "bytes": 1844
+    },
+    {
+      "path": "skills/hebrew-content-writer/SKILL.md",
+      "sha256": "557fc78677240e2af4815b709fc39bb7edb2b163d6d275bb9ba5b1cdded6937a",
+      "bytes": 3347
+    },
+    {
+      "path": "skills/hebrew-content-writer/LICENSE",
+      "sha256": "baed39d29b8ce382ce04f2427264cde4819870451fb8517dacb97ac2451e8f25",
+      "bytes": 1077
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/LICENSE",
+      "sha256": "cdbc9963ca21a7c9230c10889ed04e5e5d4a5ca0f4708699f3919e6f4c960c2c",
+      "bytes": 1076
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/references/domain-checklist.md",
+      "sha256": "83a463c7761e99ab38a07c88c6fb2f5dd220b1496e163764105352015c0e62f5",
+      "bytes": 5328
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/references/is-5568.md",
+      "sha256": "1ca9c2a0acc6cdc1b8377242398dc787bda68ec7c844386dbe014b3a5d203589",
+      "bytes": 13068
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/references/mobile-apps.md",
+      "sha256": "347467d82834e3c2f36057d2eefe7c8175354f449e03d45164387cdee78972e3",
+      "bytes": 4130
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/references/widget-implementation.md",
+      "sha256": "831fb65ada6f3b4e4c167ed7ab66751a9f46b82663575461d714fcaa0be3bc66",
+      "bytes": 26884
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/scripts/audit_a11y.py",
+      "sha256": "acd017982a30e865e8ae6ccba98833dcfa37d3fc793dc6292f1f7c228128db38",
+      "bytes": 17631
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/SKILL.md",
+      "sha256": "02ee7025857cb1d530e12c21a9bd2aa54418abc133f7369aa2940d48fb989aa8",
+      "bytes": 35555
+    },
+    {
+      "path": "skills/israeli-accessibility-compliance/SKILL_HE.md",
+      "sha256": "49bf587cc4f9e2b9fa0a7cab201ee2982d0acc07c03eb2acb809e6d3bd7708eb",
+      "bytes": 43353
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/agents/openai.yaml",
+      "sha256": "6467d52ea86f5192e10e1aaaa0b57a3074dc2dd17e86ef6ede358417dd610345",
+      "bytes": 184
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/references/assets-and-loans.md",
+      "sha256": "c013fa971d1fd613d8f0e569ee532a7e5c7c472a94c93d29a0d038c5cccef5db",
+      "bytes": 1896
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/references/documents-and-vat.md",
+      "sha256": "e9385cb604b615eee2fa23c4aacca0e762fac07ce9a50a58836c962b440cd4b5",
+      "bytes": 5084
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/references/payroll.md",
+      "sha256": "84699f897994e08951d6d05ab5c5986d2c63b3669103793c93839f8bd94e0b9d",
+      "bytes": 2289
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/SKILL.md",
+      "sha256": "9326ef1185f691cce15b1237bafee86aef8dba3ef33a30659d9a1dfc1e15bb6e",
+      "bytes": 3780
+    },
+    {
+      "path": "skills/israeli-bookkeeping-automation/LICENSE",
+      "sha256": "baed39d29b8ce382ce04f2427264cde4819870451fb8517dacb97ac2451e8f25",
+      "bytes": 1077
+    },
+    {
+      "path": "skills/israeli-financial-reports/agents/openai.yaml",
+      "sha256": "ae1c78ff4c4b541daec72de4416779081f4957f0e0ca73d80a4a9dfe09efd845",
+      "bytes": 170
+    },
+    {
+      "path": "skills/israeli-financial-reports/references/israeli-reporting.md",
+      "sha256": "3e62a6b1fcadade68aa693a367f74067fd80229a0f9b08d5e3619d3196f35660",
+      "bytes": 3761
+    },
+    {
+      "path": "skills/israeli-financial-reports/references/statement-controls.md",
+      "sha256": "1c6afbcf3f80aa284a854571d56f611fbcf541fe4424f3ffc2c35926ad7f1b8b",
+      "bytes": 2537
+    },
+    {
+      "path": "skills/israeli-financial-reports/SKILL.md",
+      "sha256": "eaec5859f57d60ec8fd5ca24a53fdf47d6bb2889e146763f213526d441125bf4",
+      "bytes": 3436
+    },
+    {
+      "path": "skills/israeli-financial-reports/LICENSE",
+      "sha256": "baed39d29b8ce382ce04f2427264cde4819870451fb8517dacb97ac2451e8f25",
+      "bytes": 1077
+    },
+    {
+      "path": "skills/outlook-mail-calendar/agents/openai.yaml",
+      "sha256": "3f69493fbf2ad4c52d8b7e43b9af874ccee60f08ba1d7a4e586ccf5e2f53fbdc",
+      "bytes": 259
+    },
+    {
+      "path": "skills/outlook-mail-calendar/SKILL.md",
+      "sha256": "d84d2486e9c854f533fa687974c85a3485bc9b5d8911bbe6722141895de3fdda",
+      "bytes": 10544
+    },
+    {
+      "path": "skills/pragmatic-code-review/agents/openai.yaml",
+      "sha256": "272fbda0fae1b3f49f13af42806c3b53288b308830f7c233e46083096873d580",
+      "bytes": 207
+    },
+    {
+      "path": "skills/pragmatic-code-review/LICENSE",
+      "sha256": "c282276aea1d12b8b5262e9651a05471d14752b2d25495f2a3d8933c86d1d8a5",
+      "bytes": 1070
+    },
+    {
+      "path": "skills/pragmatic-code-review/references/source.md",
+      "sha256": "2ccdfac7aa6b875d4b4871b8fc6a8dfa215a5baa112996049327a0ab1e283c92",
+      "bytes": 1148
+    },
+    {
+      "path": "skills/pragmatic-code-review/SKILL.md",
+      "sha256": "6d7b1d936e8774c8b7efd7900253a80ebe559585ff26b0cb9fa29305ff9a76e1",
+      "bytes": 4945
+    },
+    {
+      "path": "skills/security-review/agents/openai.yaml",
+      "sha256": "69ab93a2b71fb4f7e34f3d48bf75c9f816a6883fb8cd0177db59e40b9c44f029",
+      "bytes": 211
+    },
+    {
+      "path": "skills/security-review/LICENSE",
+      "sha256": "c282276aea1d12b8b5262e9651a05471d14752b2d25495f2a3d8933c86d1d8a5",
+      "bytes": 1070
+    },
+    {
+      "path": "skills/security-review/references/source.md",
+      "sha256": "a102717eb9f8cf2e17a6f79b644a84f592e2f5c2a135cae725a6d9724724d113",
+      "bytes": 1274
+    },
+    {
+      "path": "skills/security-review/SKILL.md",
+      "sha256": "f498858581baca1e2d3ad9629c56b53db0bd604d85b2b3e60630375369442b72",
+      "bytes": 5584
+    },
+    {
+      "path": "skills/super-pharm-stock/agents/openai.yaml",
+      "sha256": "0db2d6ff9db3958769a093a1673deb9df0381aba425c5e3cfa2d3821493c8092",
+      "bytes": 293
+    },
+    {
+      "path": "skills/super-pharm-stock/references/browser-workflow.md",
+      "sha256": "158bce1ebff8dbf5af1affa79eeadc373146632153bf2d5abd203deb2b8c60c6",
+      "bytes": 5046
+    },
+    {
+      "path": "skills/super-pharm-stock/SKILL.md",
+      "sha256": "4fcadb8a57cef6daa4652d10d6bfe09e886f705fbd22ddce8c62fc4dcc34085a",
+      "bytes": 5030
+    },
+    {
+      "path": "skills/wa-agent-integration/agents/openai.yaml",
+      "sha256": "f7161eb1cc5aaf9c0f3235a2bd8b5bc6eeb297feab60d897a5baa41b52540711",
+      "bytes": 316
+    },
+    {
+      "path": "skills/wa-agent-integration/references/configuration.md",
+      "sha256": "c46abe4c50174f684a16d04807727af064cdef3c9ad8cbbffd500dd05a4e6a20",
+      "bytes": 2834
+    },
+    {
+      "path": "skills/wa-agent-integration/references/source-review.md",
+      "sha256": "b8a0ddac07059518c3846431a9930a33da695164a02d949e56524fcd9d92c77b",
+      "bytes": 4814
+    },
+    {
+      "path": "skills/wa-agent-integration/SKILL.md",
+      "sha256": "2404dec9d9611d9bdc4fe1bdebb9e2c2b20329f787a1e8a926fb3d98d1efb21f",
+      "bytes": 6609
+    },
+    {
+      "path": "skills/whatsapp-business/agents/openai.yaml",
+      "sha256": "db09796b728a99bb66c2af6e97fc7e632528ef9d96dcc77413475dea2777a4d3",
+      "bytes": 307
+    },
+    {
+      "path": "skills/whatsapp-business/references/business-operations.md",
+      "sha256": "384bfa83534191d70c60301435f555c1fcbfd70a57f95d13c6ec3bdd13b37961",
+      "bytes": 5993
+    },
+    {
+      "path": "skills/whatsapp-business/references/monitoring.md",
+      "sha256": "331ac122944242a4d940be9eb1a1e271aac559358435306cf3680eda3cda4134",
+      "bytes": 4633
+    },
+    {
+      "path": "skills/whatsapp-business/SKILL.md",
+      "sha256": "b0e99260557e3a1d5ca04198f6d3e31bcb169accbc60af6f185cb0d9364f98d7",
+      "bytes": 10675
+    },
+    {
+      "path": "skills/yad2/agents/openai.yaml",
+      "sha256": "6df3ca935cfe60bc316bf6ed34d355c27aee9beac5365a2dc6ff5113113961b4",
+      "bytes": 183
+    },
+    {
+      "path": "skills/yad2/references/access.md",
+      "sha256": "02e3e26fc93e377111ff1c6c96ff9a6118bd9a15492857c0546ccb70d26e7b55",
+      "bytes": 4028
+    },
+    {
+      "path": "skills/yad2/references/workflows.md",
+      "sha256": "2b58cada4825a2a139537cf484d4aa9b3275d151190e5381ccb8d112c42213dd",
+      "bytes": 4448
+    },
+    {
+      "path": "skills/yad2/SKILL.md",
+      "sha256": "035106df07c2433bb3037902e6ff4c6ce78fb8122b49201becfbf7bfd1669260",
+      "bytes": 6367
+    },
+    {
+      "path": "skills/context-compressor/agents/openai.yaml",
+      "sha256": "cbfbf923d9c049589da2e00cc7a29043ea7604cda1bc37f647d5b8179ef2f04c",
+      "bytes": 223
+    },
+    {
+      "path": "skills/context-compressor/SKILL.md",
+      "sha256": "56f4262643d47391ab0a5855e6397c504e71728034b63c63d61acc1e2d1d7854",
+      "bytes": 2454
+    },
+    {
+      "path": "skills/whatsapp-business/references/gateway-permissions.md",
+      "sha256": "ac066184bfd439e684739c92f04b15fc19d6807d5909eb9aa894dc7be459252e",
+      "bytes": 1338
+    },
+    {
+      "path": "tests/thread-reader.test.mjs",
+      "sha256": "1e557deaeed1252271ee7a063219d6bb2469ebf141637a4cc439493faf158844",
+      "bytes": 5342
+    },
+    {
+      "path": "tests/accounting.test.mjs",
+      "sha256": "a56ad84a635609f4ee0d11d40c728f7c66d7aff83bd96d6b57acdd076787376e",
+      "bytes": 6871
+    },
+    {
+      "path": "CATALOG.md",
+      "sha256": "aa4b8ede9ec4d3028420eeba7e60ccdd0477a695fc0ac3aaf34457cc9f685b52",
+      "bytes": 2975
+    },
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "11d8edc6e7c1c21a608d0c9f448510a77c83ebc6bea75de6543f7ea278263ade",
+      "bytes": 2446
+    },
+    {
+      "path": "README.md",
+      "sha256": "ac128cbabd54c91a684be8d3e8873a2008bbee38e55792ffe964fcecab9d45ac",
+      "bytes": 2981
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2d87cdc82fb9189432997598810e9231673b593b3e14309e2ddf6dee5aaf9e44",
+      "bytes": 288
+    }
+  ]
+}

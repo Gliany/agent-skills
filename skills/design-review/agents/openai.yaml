@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Review"
+  short_description: "Review visual UX, responsiveness, and accessibility"
+  default_prompt: "Use $design-review to review the affected screens in my preview."

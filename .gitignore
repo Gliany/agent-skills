@@ -1,0 +1,26 @@
+# Publish only this curated package, never its sibling local-record folder.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*credentials*
+*cookies*
+*session*.json
+*.db
+*.sqlite*
+*.log
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.cache/
+local-record/
+output/

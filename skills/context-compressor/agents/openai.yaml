@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Compressor"
+  short_description: "Compress context into an agent-ready handoff"
+  default_prompt: "Use $context-compressor to compress the current project context for another agent."

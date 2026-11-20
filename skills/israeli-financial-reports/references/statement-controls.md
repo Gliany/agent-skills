@@ -1,0 +1,12 @@
+# Statement controls
+
+Use the checks relevant to the requested statement. Preserve the source-to-line mapping and any manual adjustments with their basis and supporting evidence.
+
+| Report | Build and verify |
+| --- | --- |
+| Trial balance (מאזן בוחן) | Keep account codes and names, opening balances, movements, and closing balances where available. For each complete debit and credit view verify equality and tie the opening balances and movements to the closing balances. Trace any difference to journal entries, incorrect signs, omissions, or documented closing adjustments. |
+| Profit and loss (דוח רווח והפסד) | Map revenue, direct costs, operating costs, financing and other items, and documented tax expense where applicable. Distinguish רווח גולמי, רווח תפעולי, and רווח נקי. Keep accounting profit separate from taxable profit and owner withdrawals. Show comparable periods on the same basis and leave percentage variance undefined when the baseline is zero or unavailable. |
+| Balance sheet (מאזן) | Use balances as of the reporting date. Present assets, liabilities, and equity, and split current and noncurrent amounts where applicable. Check assets equal liabilities plus equity. Reconcile retained earnings or owner's equity to opening balances, profit or loss, and supported owner or shareholder movements. |
+| Cash flow (דוח תזרים מזומנים) | Use the method agreed for the report. Separate operating, investing, and financing cash flows. For the indirect method, bridge profit to operating cash with noncash items and working-capital movements, excluding noncash movements from the cash flows themselves. Explain any exchange-rate effect on cash separately. Tie opening cash plus net movements and any FX effect to closing cash and cash equivalents in the balance sheet. Obtain supporting movements before inferring a purchase, disposal, dividend, or loan flow from a balance change. |
+
+For year-end drafts, show the comparative period and separate proposed closing entries from posted entries. A partial ledger or records of invoices and receipts can support a scoped schedule. A complete annual set requires the underlying balances, movements, applicable notes, and accounting basis. For framework applicability use the [IFRS Foundation's Israel profile](https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/israel/) together with the entity's accountant-confirmed policy and applicable Israeli requirements.

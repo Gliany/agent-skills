@@ -1,0 +1,4 @@
+interface:
+  display_name: "מלאי סופר־פארם"
+  short_description: "בדיקת מלאי מוצרים ותרופות בסניפי סופר־פארם"
+  default_prompt: "השתמש ב־$super-pharm-stock לבדיקת מלאי מוצר בסניף סופר־פארם המבוקש."
