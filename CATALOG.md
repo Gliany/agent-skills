@@ -24,3 +24,8 @@ Each folder is a complete skill package. Invoke the named skill for a matching t
 | [whatsapp-business](skills/whatsapp-business/SKILL.md) | A separately authorized WhatsApp connection; enforce gateway policy outside the skill. |
 | [yad2](skills/yad2/SKILL.md) | Supported browser-control tool; user session for account changes. |
 | [context-compressor](skills/context-compressor/SKILL.md) | Agent instructions only; no bundled executable runtime. |
+
+## Accounting source and tools
+
+- [Invoice4u client](scripts/invoice4u/) provides a Windows PowerShell API client with runtime credential lookup.
+- [Accounting source recovery](scripts/accounting-recovery/) preserves the complete original workspace source as an owner-keyed encrypted archive, with a hash-verifying restore command and pinned dependencies.

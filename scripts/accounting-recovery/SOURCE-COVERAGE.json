@@ -1,0 +1,20 @@
+{
+  "snapshot_date": "2026-11-21",
+  "source_files": 112,
+  "extension_counts": {
+    ".md": 2,
+    ".html": 7,
+    ".mjs": 27,
+    ".py": 22,
+    ".ps1": 50,
+    ".ipynb": 1,
+    ".js": 1,
+    ".json": 1,
+    ".css": 1
+  },
+  "encryption": "AES-256-GCM; key held separately by the owner",
+  "encrypted_archive_sha256": "5752bd0d5af831704c3c82637ad8064b6d7386e6a47015b18098bdf1f89b405d",
+  "readable_client_sha256": "388f9d4faeef64e581298e92fcfe4c42d2f933b226e366c219e14c51100fbd80",
+  "source_scope": "First-party code and dependency/configuration files in the verified workspace recovery snapshot, plus the backup source tools.",
+  "data_dependencies": "Private financial inputs remain in the owner-held workspace recovery package."
+}

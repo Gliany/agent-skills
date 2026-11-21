@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "files": [
     {
       "path": "skills/context-optimization/references/recovery.md",
@@ -383,8 +383,8 @@
     },
     {
       "path": "CATALOG.md",
-      "sha256": "aa4b8ede9ec4d3028420eeba7e60ccdd0477a695fc0ac3aaf34457cc9f685b52",
-      "bytes": 2975
+      "sha256": "956262bf977dbf41d03e0577d3e82f9bd20b677c892435105668ba84eafdcd11",
+      "bytes": 3332
     },
     {
       "path": "PROVENANCE.md",
@@ -405,6 +405,41 @@
       "path": ".gitignore",
       "sha256": "2d87cdc82fb9189432997598810e9231673b593b3e14309e2ddf6dee5aaf9e44",
       "bytes": 288
+    },
+    {
+      "path": "scripts/invoice4u/Invoice4u.Client.ps1",
+      "sha256": "388f9d4faeef64e581298e92fcfe4c42d2f933b226e366c219e14c51100fbd80",
+      "bytes": 12735
+    },
+    {
+      "path": "scripts/invoice4u/README.md",
+      "sha256": "83b2f9f08067bcab697384ee9e55bf4a0503e01444ef38a537d8a1a53e95faa8",
+      "bytes": 2324
+    },
+    {
+      "path": "scripts/accounting-recovery/README.md",
+      "sha256": "a6ddaa1a67c112d7eba3d3a4bac24ad8a65c6f940ee4ceb9e323c371edfb26ae",
+      "bytes": 2401
+    },
+    {
+      "path": "scripts/accounting-recovery/restore_source.py",
+      "sha256": "59a00c1586795752a39dc456c6edbddde062e48a48e7ef727d9d91eace789f62",
+      "bytes": 2743
+    },
+    {
+      "path": "scripts/accounting-recovery/requirements.txt",
+      "sha256": "8b5c18678b29b5e8e0fb586a35ac1dce3ccd9da321e8f12ace0e118350b4e568",
+      "bytes": 21
+    },
+    {
+      "path": "scripts/accounting-recovery/workspace-source.aesgcm.json",
+      "sha256": "5752bd0d5af831704c3c82637ad8064b6d7386e6a47015b18098bdf1f89b405d",
+      "bytes": 927606
+    },
+    {
+      "path": "scripts/accounting-recovery/SOURCE-COVERAGE.json",
+      "sha256": "154b8e092879d34a5b44b628669f42056cd7110be99d1702d492d55ba0a37bbd",
+      "bytes": 737
     }
   ]
 }
