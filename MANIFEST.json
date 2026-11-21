@@ -393,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "3d133fc1056bad89b783295e7762bfe9588ee9c75903e2c5eb9e374ebfec4b4a",
-      "bytes": 3174
+      "sha256": "4cec2a0586e61675fe23908637af312e3ff5b00cab11f414bc836e4da85bcf40",
+      "bytes": 3393
     },
     {
       "path": "prompts/codex-backup-handoff.md",
@@ -440,6 +440,11 @@
       "path": "scripts/accounting-recovery/SOURCE-COVERAGE.json",
       "sha256": "154b8e092879d34a5b44b628669f42056cd7110be99d1702d492d55ba0a37bbd",
       "bytes": 737
+    },
+    {
+      "path": "prompts/share-project-knowledge.md",
+      "bytes": 2776,
+      "sha256": "00c1929475e6aeec2002fc20f1e0f204b2ce130b6537801f66c444405c6a448d"
     }
   ]
 }

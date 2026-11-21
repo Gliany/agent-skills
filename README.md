@@ -5,6 +5,8 @@ A curated collection of 20 custom skills and local adaptations, with required re
 
 Use the [Codex backup handoff prompt](prompts/codex-backup-handoff.md) to preserve a chat and its project code in a private backup and add authorized reusable files to this public collection.
 
+Use the [project knowledge sharing prompt](prompts/share-project-knowledge.md) in the chat that owns a project to publish reusable code and instructions after checking for duplicates and removing personal information.
+
 ## Install and use
 
 Copy an individual `skills/<name>` folder into your agent's supported skill directory. For a Codex installation that uses `%USERPROFILE%\.codex\skills`, a new skill can be copied as follows. Resolve any existing installation before copying; do not overwrite it silently.
