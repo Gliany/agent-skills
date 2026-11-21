@@ -313,8 +313,8 @@
     },
     {
       "path": "skills/wa-agent-integration/SKILL.md",
-      "sha256": "2404dec9d9611d9bdc4fe1bdebb9e2c2b20329f787a1e8a926fb3d98d1efb21f",
-      "bytes": 6609
+      "sha256": "63e7f8ac22e411805714a187462d39a7c522eb358835615b5a434d20e348853a",
+      "bytes": 6843
     },
     {
       "path": "skills/whatsapp-business/agents/openai.yaml",
@@ -333,8 +333,8 @@
     },
     {
       "path": "skills/whatsapp-business/SKILL.md",
-      "sha256": "b0e99260557e3a1d5ca04198f6d3e31bcb169accbc60af6f185cb0d9364f98d7",
-      "bytes": 10675
+      "sha256": "a0bc15c50f996686830a19f540f6a406871d45486f165e2aaf7d7ef205169722",
+      "bytes": 10890
     },
     {
       "path": "skills/yad2/agents/openai.yaml",
@@ -383,18 +383,18 @@
     },
     {
       "path": "CATALOG.md",
-      "sha256": "956262bf977dbf41d03e0577d3e82f9bd20b677c892435105668ba84eafdcd11",
-      "bytes": 3332
+      "sha256": "825c181364a5722ee5dc297b467deb3294786e805d713e2b19920cee62770430",
+      "bytes": 3814
     },
     {
       "path": "PROVENANCE.md",
-      "sha256": "11d8edc6e7c1c21a608d0c9f448510a77c83ebc6bea75de6543f7ea278263ade",
-      "bytes": 2446
+      "sha256": "95c25a1547fa5f1f54699183f1aa905f803f004c740559509e878cb9b58d04ed",
+      "bytes": 2975
     },
     {
       "path": "README.md",
-      "sha256": "4cec2a0586e61675fe23908637af312e3ff5b00cab11f414bc836e4da85bcf40",
-      "bytes": 3393
+      "sha256": "6cb5526936ff100fe106b2227dd67ef69f783a72a9a151a44e20b970b6d48352",
+      "bytes": 3879
     },
     {
       "path": "prompts/codex-backup-handoff.md",
@@ -445,6 +445,46 @@
       "path": "prompts/share-project-knowledge.md",
       "bytes": 2776,
       "sha256": "00c1929475e6aeec2002fc20f1e0f204b2ce130b6537801f66c444405c6a448d"
+    },
+    {
+      "path": "scripts/whatsapp-photo/README.md",
+      "sha256": "c0d6e54b58f8b82fdaf0399fb9efee91af84d5e49672431f336d84c3742dd1aa",
+      "bytes": 5352
+    },
+    {
+      "path": "scripts/whatsapp-photo/decode-photo.mjs",
+      "sha256": "bdea0e00c3d7afa988a21cdf7ae3f443ce819b3418e8c381bd391f40b8b9abb3",
+      "bytes": 2454
+    },
+    {
+      "path": "scripts/whatsapp-photo/example.mjs",
+      "sha256": "c27b2334aa580e997693da164a43e4840eabc956328a83361e41a69768fd5a04",
+      "bytes": 464
+    },
+    {
+      "path": "scripts/whatsapp-photo/package-lock.json",
+      "sha256": "baaee77e19add024fc958cdf7e3482d283d416413e5a0e3d5ec84eb4932c3e16",
+      "bytes": 20195
+    },
+    {
+      "path": "scripts/whatsapp-photo/package.json",
+      "sha256": "38f3d14d3ce5fd814743911e9401fc427667bd0e97913dfeb5e3d88f604bafb2",
+      "bytes": 263
+    },
+    {
+      "path": "scripts/whatsapp-photo/test.mjs",
+      "sha256": "af12672ee104eb7a89699bd651a0ace89c86be08aeb161d0ad27c54ccb8001ac",
+      "bytes": 2130
+    },
+    {
+      "path": "skills/wa-agent-integration/references/desktop-startup-diagnostics.md",
+      "sha256": "7ba96b81418b34d4cd80f96325bba2c59b24a8886de2ab7377f4a4bc6d6bd806",
+      "bytes": 3263
+    },
+    {
+      "path": "skills/whatsapp-business/references/daily-review.md",
+      "sha256": "23a9011339c6b7d6f32bce1f4e62add37a3865114268f4b5e4e5a5249db03240",
+      "bytes": 4543
     }
   ]
 }

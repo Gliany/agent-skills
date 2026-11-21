@@ -35,3 +35,7 @@ node --test tests/thread-reader.test.mjs tests/accounting.test.mjs
 ```
 
 The tests use synthetic records and mocked RPC. They do not launch a live chat session, read a mailbox, message anyone or contact an external account. Historical fixture prices are test inputs, not current price guidance. Browser workflows, provider access, runtime protocol compatibility and live account effects are unverified by these checks. Recheck relevant current official behavior before implementation.
+
+## Gateway examples and workflow notes
+
+See the [photo validation package](scripts/whatsapp-photo/README.md) for its separate npm dependency installation and offline tests. The [daily review workflow](skills/whatsapp-business/references/daily-review.md) and [startup diagnostic method](skills/wa-agent-integration/references/desktop-startup-diagnostics.md) document reusable operating lessons. These are components and instructions, not a turnkey assistant or live-service activation.

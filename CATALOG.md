@@ -29,3 +29,9 @@ Each folder is a complete skill package. Invoke the named skill for a matching t
 
 - [Invoice4u client](scripts/invoice4u/) provides a Windows PowerShell API client with runtime credential lookup.
 - [Accounting source recovery](scripts/accounting-recovery/) preserves the complete original workspace source as an owner-keyed encrypted archive, with a hash-verifying restore command and pinned dependencies.
+
+## Gateway building blocks
+
+- [Photo decoder and integration guide](scripts/whatsapp-photo/README.md): Node.js 24, pinned sharp dependency, synthetic offline example and tests.
+- [Daily review workflow](skills/whatsapp-business/references/daily-review.md): staged private consent, concise reports and tracking proposals.
+- [Desktop startup diagnostics](skills/wa-agent-integration/references/desktop-startup-diagnostics.md): separate browser, Desktop and background-worker health.

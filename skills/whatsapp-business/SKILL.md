@@ -74,3 +74,5 @@ Keep only necessary operation metadata in an approved local store: operation ID,
 Never commit session profiles, private downloads, QR images, cookies, screenshots, credentials or runtime databases. Prefer not saving private screenshots; remove agent-created temporary artifacts only within an authorized retention/cleanup scope. Do not delete user files as routine cleanup.
 
 After acting, report completed actions with verified state, unresolved/partial outcomes, and any concrete pending decision. If nothing changed during an approved monitor, remain quiet unless its policy requests periodic updates. Do not claim live monitoring or account access from a successful skill validation.
+
+For staged mail and task reports, read [daily review](references/daily-review.md). For image intake, use the [photo component guide](../../scripts/whatsapp-photo/README.md); deployment permissions remain separate.

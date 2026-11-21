@@ -51,3 +51,5 @@ For approval/security adaptations, use observable tests with a mocked transport:
 For ordinary configuration edits, schema validation and focused routing tests may suffice. Run the repository's relevant build/tests only in the isolated checkout after dependency review; do not report unrun tests as passed.
 
 Live activation requires a concrete reviewed account/scope, approved reply policy or exact-action permission, protected state, a stop mechanism, fresh connection checks and an explicitly authorized test exchange. Separate offline readiness, linked account, real inbound processing, sent, delivered/read and restart recovery in reporting. Creating this skill alone establishes none of them.
+
+For desktop/shared-runtime/browser startup diagnosis, read [startup diagnostics](references/desktop-startup-diagnostics.md). For a reusable image-validation component, see the [photo package](../../scripts/whatsapp-photo/README.md).
